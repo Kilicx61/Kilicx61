@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there, I'm Muhammed 👋
 
-<!--
-**Kilicx61/Kilicx61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build desktop applications and experimental developer tools. I enjoy exploring software architectures, designing functional user interfaces, and turning ideas into working software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+- **Languages:** Rust, JavaScript / TypeScript, Python
+- **Frameworks & Libraries:** Tauri, React, Node.js
+
+---
+
+### 🚀 Featured Projects
+
+- **[Lumina Music](https://github.com/Kilicx61/Lumina-Mus-c):** A modern desktop music player focused on clean audio playback, intuitive queue management, and a sleek dark UI.
+- **[Plorsa](https://github.com/Kilicx61/Plorsa):** An AI agent workspace built to coordinate tasks, run subagents, and streamline automated workflows.
+
+---
+
+### 🌐 Connect
+
+- **Website / Portfolio:** [kilicx61.vercel.app](https://kilicx61.vercel.app/)
